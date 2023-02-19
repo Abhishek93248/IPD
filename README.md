@@ -21,6 +21,7 @@ By Clicking on "Get Measurement" you will be able to get your body measurements 
 `pip install imutils` <br>
 `pip install scipy` <br>
 `pip install numpy`
+`pip install mediapipe`
 
 ## Prerequisites
 Webcam/RGB Camera
