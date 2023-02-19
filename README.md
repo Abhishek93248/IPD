@@ -1,4 +1,4 @@
-# Fit Shot
+# Easy trial
 Using the OpenCv, image processing technology, we have provided a virtual mirror (that will make use of the system's camera) for the users using which the user can undergo the “virtual try-on”. While trying on, it performs multiple tasks including detection of the user’s face from video stream, alignment of models, approximating the position of torso and lower body based on face detection and resizing input dress images and dress up using Image Processing. One can see how well the cloth of particular size fit to their body and experience whether or not the colour and other attributes of the clothing matches their liking.<br><br>
 We have also provided a second module -‘GET YOUR MEASUREMENTS’.This module contains of two parts-  body edge detection and the body measurement.  Under this, the user can get their body edges traced and further, attempt to get their body measurements.The body is automatically detected and then, the edges of the body are detected. These edges then, form an actual sketch of the user’s body. 
 
